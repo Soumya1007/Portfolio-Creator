@@ -1,0 +1,12 @@
+{
+  "Flex": 50,
+  "Div": 304,
+  "Link": 146,
+  "Image": 84,
+  "TextBox": 75,
+  "Icon": 1,
+  "Radio": 1,
+  "Modal": 1,
+  "Carousel": 2,
+  "Overlay": 1
+}
